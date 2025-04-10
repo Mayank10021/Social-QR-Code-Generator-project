@@ -25,8 +25,6 @@ A simple and responsive web app that generates a QR code for any social media or
 
 ## Preview
 
-![QR Code Generator Screenshot](screenshot.png)  
-*(Add a screenshot of the app interface here)*
 ![image](https://github.com/user-attachments/assets/0698d377-91c1-43e3-9f60-b7f321433d4a)
 
 
